@@ -1,8 +1,0 @@
-Crop,temp_min,temp_max,rain_min,rain_max,Market_price_per_kg,State
-Rice-Sona masuri,22,32,150,300,70,AndhraPradesh
-Wheat,10,15,75,100,45,UttarPradesh
-Grams,20,25,40,45,50,UttarPradesh
-Sugarcane,21,27,75,150,70,UttarPradesh
-Cotton,21,30,50,100,125,Punjab
-Oilseeds,20,30,50,75,110,MadhyaPradesh
-Tea,20,30,150,300,155,Assam
