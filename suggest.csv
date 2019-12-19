@@ -1,0 +1,14 @@
+state,district,soil,phmin,phmax,crop
+andhrapradesh,guntur,blacksoil,5.5,8,cotton
+andhrapradesh,westgodavari,redsoil,5.6,7.5,maize
+andhrapradesh,anantpur,blacksoil,5.5,8,cotton
+assam ,dhubri,alluvialsoil,5,7,rice
+gujarat,junagarh,aridanddesertsoil,6,7,carrot
+haryana,gurgaon,alluvialsoil,5,7,rice
+karnataka,shimoga,blacksoil,5.5,8,cotton
+kerala,alappuzha,alluvialsoil,5,7,rice
+tamilnadu,namakkal,lateritesoil,5,8,coconut
+tamilnadu,coimbatore,blacksoil,5.5,8,cotton
+tamilnadu,thanjavur,alluvialsoil,5,7,rice
+uttarpradesh,allahabad,redvolcanicsoil,5.6,7.5,maize
+haryana,gurgaon,salineandalkalinesoil,5.5,6.5,lemon
